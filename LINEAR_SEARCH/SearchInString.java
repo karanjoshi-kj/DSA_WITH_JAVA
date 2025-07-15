@@ -1,3 +1,4 @@
+package LINEAR_SEARCH;
 import java.util.Scanner;
 
 public class SearchInString {
