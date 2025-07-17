@@ -2,7 +2,7 @@ package LINEAR_SEARCH;
 import java.util.Scanner;
 
 public class SearchInString {
-
+    
     // Function only returns true/false
     public static boolean isCharacterPresent(String str, char ch) {
         for (int i = 0; i < str.length(); i++) {
